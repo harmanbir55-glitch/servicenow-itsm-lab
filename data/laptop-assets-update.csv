@@ -1,0 +1,6 @@
+asset_tag,serial_number,manufacturer,model,category,status,assigned_to,location,purchase_date,warranty_expiration,cost
+NP-LT-00004,5CG4210A14,Dell Inc.,Latitude 5550,Standard,Assigned,tom.bradley,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00006,5CG4210A16,Dell Inc.,Latitude 5550,Standard,In Stock,,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00009,PF4XQ2B703,Lenovo,ThinkPad P16s Gen 3,Developer,Assigned,nina.patel,Head Office,2025-04-22,2028-04-22,1899.00
+NP-LT-00016,5CG4388B23,Dell Inc.,Latitude 5550,Standard,Assigned,emma.wright,Store 101,2025-08-18,2028-08-18,1099.00
+NP-LT-00018,5CG4388B25,Dell Inc.,Latitude 5550,Standard,In Stock,,Store 102,2025-08-18,2028-08-18,1099.00

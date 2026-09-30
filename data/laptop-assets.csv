@@ -1,0 +1,21 @@
+asset_tag,serial_number,manufacturer,model,category,status,assigned_to,location,purchase_date,warranty_expiration,cost
+NP-LT-00001,5CG4210A11,Dell Inc.,Latitude 5550,Standard,Assigned,james.cole,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00002,5CG4210A12,Dell Inc.,Latitude 5550,Standard,Assigned,linda.park,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00003,5CG4210A13,Dell Inc.,Latitude 5550,Standard,Assigned,kevin.osei,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00004,5CG4210A14,Dell Inc.,Latitude 5550,Standard,In Stock,,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00005,5CG4210A15,Dell Inc.,Latitude 5550,Standard,In Stock,,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00006,5CG4210A16,Dell Inc.,Latitude 5550,Standard,Repair,,Head Office,2025-02-10,2028-02-10,1099.00
+NP-LT-00007,PF4XQ2B701,Lenovo,ThinkPad P16s Gen 3,Developer,Assigned,nina.patel,Head Office,2025-04-22,2028-04-22,1899.00
+NP-LT-00008,PF4XQ2B702,Lenovo,ThinkPad P16s Gen 3,Developer,Assigned,sara.kim,Head Office,2025-04-22,2028-04-22,1899.00
+NP-LT-00009,PF4XQ2B703,Lenovo,ThinkPad P16s Gen 3,Developer,In Stock,,Head Office,2025-04-22,2028-04-22,1899.00
+NP-LT-00010,PF4XQ2B704,Lenovo,ThinkPad P16s Gen 3,Developer,Retired,,Head Office,2022-03-15,2025-03-15,1749.00
+NP-LT-00011,C02ZK1MDL1,Apple Inc.,MacBook Pro 14-inch M4,Executive,Assigned,robert.hayes,Head Office,2025-06-03,2028-06-03,2399.00
+NP-LT-00012,C02ZK1MDL2,Apple Inc.,MacBook Pro 14-inch M4,Executive,Assigned,maria.lopez,Head Office,2025-06-03,2028-06-03,2399.00
+NP-LT-00013,C02ZK1MDL3,Apple Inc.,MacBook Pro 14-inch M4,Executive,In Stock,,Head Office,2025-06-03,2028-06-03,2399.00
+NP-LT-00014,5CG4388B21,Dell Inc.,Latitude 5550,Standard,Assigned,carlos.ruiz,Store 101,2025-08-18,2028-08-18,1099.00
+NP-LT-00015,5CG4388B22,Dell Inc.,Latitude 5550,Standard,Assigned,emma.wright,Store 101,2025-08-18,2028-08-18,1099.00
+NP-LT-00016,5CG4388B23,Dell Inc.,Latitude 5550,Standard,In Stock,,Store 101,2025-08-18,2028-08-18,1099.00
+NP-LT-00017,5CG4388B24,Dell Inc.,Latitude 5550,Standard,Assigned,ahmed.hassan,Store 102,2025-08-18,2028-08-18,1099.00
+NP-LT-00018,5CG4388B25,Dell Inc.,Latitude 5550,Standard,Repair,,Store 102,2025-08-18,2028-08-18,1099.00
+NP-LT-00019,5CG4388B26,Dell Inc.,Latitude 5550,Standard,In Stock,,Store 102,2025-08-18,2028-08-18,1099.00
+NP-LT-00020,5CG4388B27,Dell Inc.,Latitude 5550,Standard,Retired,,Store 102,2021-09-01,2024-09-01,999.00

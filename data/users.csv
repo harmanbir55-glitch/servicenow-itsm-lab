@@ -1,0 +1,13 @@
+user_name,first_name,last_name,email,title,department,location,manager,company,groups
+robert.hayes,Robert,Hayes,robert.hayes@northpeak.example,Director of Operations,Operations,Head Office,,NorthPeak Home Supply,
+maria.lopez,Maria,Lopez,maria.lopez@northpeak.example,IT Manager,Information Technology,Head Office,robert.hayes,NorthPeak Home Supply,IT Managers
+kevin.osei,Kevin,Osei,kevin.osei@northpeak.example,Service Desk Analyst,Information Technology,Head Office,maria.lopez,NorthPeak Home Supply,IT Service Desk
+sara.kim,Sara,Kim,sara.kim@northpeak.example,Hardware Technician,Information Technology,Head Office,maria.lopez,NorthPeak Home Supply,Hardware Fulfillment
+tom.bradley,Tom,Bradley,tom.bradley@northpeak.example,Hardware Technician,Information Technology,Head Office,maria.lopez,NorthPeak Home Supply,Hardware Fulfillment
+linda.park,Linda,Park,linda.park@northpeak.example,Finance Manager,Finance,Head Office,robert.hayes,NorthPeak Home Supply,
+james.cole,James,Cole,james.cole@northpeak.example,Financial Analyst,Finance,Head Office,linda.park,NorthPeak Home Supply,
+nina.patel,Nina,Patel,nina.patel@northpeak.example,E-commerce Developer,Information Technology,Head Office,maria.lopez,NorthPeak Home Supply,
+carlos.ruiz,Carlos,Ruiz,carlos.ruiz@northpeak.example,Store Manager,Store Operations,Store 101,robert.hayes,NorthPeak Home Supply,Store Managers
+emma.wright,Emma,Wright,emma.wright@northpeak.example,Sales Associate,Store Operations,Store 101,carlos.ruiz,NorthPeak Home Supply,
+ahmed.hassan,Ahmed,Hassan,ahmed.hassan@northpeak.example,Store Manager,Store Operations,Store 102,robert.hayes,NorthPeak Home Supply,Store Managers
+zoe.turner,Zoe,Turner,zoe.turner@northpeak.example,Seasonal Associate,Store Operations,Store 102,,,
